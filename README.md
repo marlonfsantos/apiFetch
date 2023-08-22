@@ -1,1 +1,1 @@
-Exemplo de uso do fetch do javaScript para consumir api de CEP
+Exemplo de uso do fetch do javaScript para consumir a api viacep.com.br
